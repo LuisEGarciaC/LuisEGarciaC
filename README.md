@@ -1,5 +1,13 @@
-### Hi there 👋
+# Biembenido a mi repositorio de github 👋 
 
+## Conocimientos en:
+
+1. HTHML5/CSS3/S
+1. PHP
+1. MYSQL
+1. PYTHON
+1. DJANGO
+ 
 <!--
 **LuisEGarciaC/LuisEGarciaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
