@@ -1,4 +1,4 @@
-# Biembenido a mi repositorio de github 👋 
+# Bienvenido a mi repositorio de github 👋 
 
 ## Conocimientos en:
 
@@ -8,8 +8,8 @@
 1. MYSQL
 1. PYTHON
 1. DJANGO
-1. GIT
-1. GULP/ PUG
+1. GIT / Github
+1. GULP / PUG / SCSS
  
  
  🌱 I’m currently learning
