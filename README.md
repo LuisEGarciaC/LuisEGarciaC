@@ -15,10 +15,6 @@
  🌱 I’m currently learning
 1. REACT / REACT - DJANGO 
 
- 📫 How to reach me: 
-1. Gmail: luisenriquegarciacontreras9@gmail.com
-
-
 <!--
 **LuisEGarciaC/LuisEGarciaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
