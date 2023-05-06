@@ -4,16 +4,20 @@
 
 1. HTHML5/CSS3/JS
 1. SCSS
-1. PHP 7.1 POO / MCV /PDO
+1. PHP 7.1 POO / MCV / PDO
 1. MYSQL
 1. PYTHON
-1. DJANGO
+1. DJANGO | DJANGO REST FRAMEWORK |  FLASK
 1. GIT / Github
 1. GULP / PUG / SCSS
- 
+1. ASTROJS
  
  🌱 I’m currently learning
-1. REACT / REACT - DJANGO 
+1. REACT 
+1. REACT - DJANGO REST FRAMEWORK 
+1. NODEJS 
+1. NOSQL MONGODB
+
 
 <!--
 **LuisEGarciaC/LuisEGarciaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
